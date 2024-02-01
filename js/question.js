@@ -133,26 +133,26 @@ let questions = [
       },
       {
         numb : 12,
-        question:"What does console.log do",
-        answer: "print messages or data in the browser console.",
+        question:" Different software enables a computer to achieve specific tasks. What allows programmers to come up with these software solutions?What does console.log do",
+        answer: "Using different programming languages.",
         options:[
-            "print messages or data in the browser console.",
-            "Display code on the brower",
-            "To add numbers",
-            "To create functions",
+            "Browsing the internet.",
+            "Using others code ",
+            "Using different programming languages",
+            "Limiting your option to one programming language",
         ]
         
       
       },
       {
         numb : 13,
-        question:"What does console.log do",
-        answer: "print messages or data in the browser console.",
+        question:"What  are functions in javascript",
+        answer: "are set of statements that performs a task or calculates a value.",
         options:[
-            "print messages or data in the browser console.",
-            "Display code on the brower",
-            "To add numbers",
-            "To create functions",
+            "Are set of statements that performs a task or calculates a value.",
+            "Statements that make your work neater",
+            "statements that gives condition",
+            "statements that create smooth user experience",
         ]
         
       
