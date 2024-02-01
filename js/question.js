@@ -79,6 +79,85 @@ let questions = [
         
       
       },
+      {
+        numb : 8,
+        question:"What is the full meaning of API",
+        answer: "Application programming interface",
+        options:[
+            "Application processor interface",
+            "Application permit information",
+            "Application programming interface",
+            "Adaptive programming interface",
+        ]
+        
+      
+      },
+      {
+        numb : 9,
+        question:"What is the purpose of the `break` statement in a loop?",
+        answer: "To exit the loop prematurely.",
+        options:[
+            "To exit a loop maturely",
+            "To exit the loop prematurely.",
+            "To statrt a loop",
+            "To pause a loop",
+        ]
+        
+      
+      },
+      {
+        numb : 10,
+        question:"What does console.log do",
+        answer: "print messages or data in the browser console.",
+        options:[
+            "print messages or data in the browser console.",
+            "Display code on the brower",
+            "To add numbers",
+            "To create functions",
+        ]
+        
+      
+      },
+      {
+        numb : 11,
+        question:"What does console.log do",
+        answer: "print messages or data in the browser console.",
+        options:[
+            "print messages or data in the browser console.",
+            "Display code on the brower",
+            "To add numbers",
+            "To create functions",
+        ]
+        
+      
+      },
+      {
+        numb : 12,
+        question:"What does console.log do",
+        answer: "print messages or data in the browser console.",
+        options:[
+            "print messages or data in the browser console.",
+            "Display code on the brower",
+            "To add numbers",
+            "To create functions",
+        ]
+        
+      
+      },
+      {
+        numb : 13,
+        question:"What does console.log do",
+        answer: "print messages or data in the browser console.",
+        options:[
+            "print messages or data in the browser console.",
+            "Display code on the brower",
+            "To add numbers",
+            "To create functions",
+        ]
+        
+      
+      },
+    
 
 
 
