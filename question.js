@@ -65,13 +65,21 @@ let questions = [
     "Django",
     "Mongodb",
    ]
-  }
-  {
-    numb : 7,
-    question:"The programming process is a _______________.",
-    answer: "problem solving process",
-    options:
-    
-  }
+  },
+ {
+        numb : 7,
+        question:"The programming process is a _______________.",
+        answer: "problem solving process",
+        options:[
+            "problem solving process",
+            "Money making process",
+            "Programming language learning process",
+            "Debuging process",
+        ]
+        
+      
+      },
+
+
 
 ];
