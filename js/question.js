@@ -147,9 +147,9 @@ let questions = [
       {
         numb : 13,
         question:"What  are functions in javascript",
-        answer: "are set of statements that performs a task or calculates a value.",
+        answer: "set of statements that performs a task or calculates a value.",
         options:[
-            "Are set of statements that performs a task or calculates a value.",
+            " set of statements that performs a task or calculates a value.",
             "Statements that make your work neater",
             "statements that gives condition",
             "statements that create smooth user experience",
