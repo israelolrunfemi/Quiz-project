@@ -120,13 +120,13 @@ let questions = [
       },
       {
         numb : 11,
-        question:"What does console.log do",
-        answer: "print messages or data in the browser console.",
+        question:"During program development, software requirements specify",
+        answer: "How the program will accomplish the task",
         options:[
-            "print messages or data in the browser console.",
-            "Display code on the brower",
-            "To add numbers",
-            "To create functions",
+            "How the program will accomplish the task.",
+            "How code structure is ",
+            "How programmer behaves",
+            " How well the users understand the sofware",
         ]
         
       
